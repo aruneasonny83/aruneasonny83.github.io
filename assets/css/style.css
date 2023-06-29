@@ -2036,8 +2036,9 @@ html, body {
 
 /* Sections background: Quote */
 .section-quote {
-  background: url(../img/key.jpg) center no-repeat fixed;
+  background: gray;
 }
+
 
 .section-quote p {
   margin-top: 0;
